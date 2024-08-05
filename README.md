@@ -1,8 +1,7 @@
-# React + Vite
+# Riddlr: a riddle game created with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to play:
+1. Press play
+2. Type your answer in the input field
+3. Press check answer to check if your answer is correct
+4. Press next riddle to continue or quit game to quit
