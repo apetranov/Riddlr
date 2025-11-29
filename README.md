@@ -1,4 +1,5 @@
 # Riddlr: a riddle game created with React
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6548f9b1-019b-436b-8371-d6c0815d9d84" />
 
 ## How to play:
 1. Press play
